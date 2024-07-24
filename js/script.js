@@ -79,7 +79,7 @@ window.onload = function() {
 
     function checkCursor (event){
         //update cursor co ordinates
-        mousePosition.x = event.clientX+100;
+        mousePosition.x = event.clientX+50;
         mousePosition.y = event.clientY;
         //set fishing line to follow cursor
         fishingLine.style.left= mousePosition.x+"px";
