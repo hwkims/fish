@@ -574,8 +574,8 @@ window.onload = function() {
                 }
                 else if (type.contains("fish1")) {
                     hitText.innerText = "+1";
-                    hitText.style.color = "#00ffcd";
-                    hitText.style.textShadow = "0px 0px 10px #00ffcd";
+                    hitText.style.color = "#ff69b4"; // pink
+                    hitText.style.textShadow = "0px 0px 10px #ff69b4";
                     blop.play();
                     score++;
                     currentScore++;
@@ -583,8 +583,8 @@ window.onload = function() {
                 }
                 else if (type.contains("fish2")) {
                     hitText.innerText = "+1";
-                    hitText.style.color = "#00ffcd";
-                    hitText.style.textShadow = "0px 0px 10px #00ffcd";
+                    hitText.style.color = "#33cc33"; // green
+                    hitText.style.textShadow = "0px 0px 10px #33cc33";
                     blop.play();
                     score++;
                     currentScore++;
@@ -592,8 +592,8 @@ window.onload = function() {
                 }
                 else if (type.contains("fish3")) {
                     hitText.innerText = "+1";
-                    hitText.style.color = "#00ffcd";
-                    hitText.style.textShadow = "0px 0px 10px #00ffcd";
+                    hitText.style.color = "#6666ff"; // blue
+                    hitText.style.textShadow = "0px 0px 10px #6666ff";
                     blop.play();
                     score++;
                     currentScore++;
@@ -601,8 +601,8 @@ window.onload = function() {
                 }
                 else if (type.contains("fish4")) {
                     hitText.innerText = "+1";
-                    hitText.style.color = "#00ffcd";
-                    hitText.style.textShadow = "0px 0px 10px #00ffcd";
+                    hitText.style.color = "#ff9900"; // orange
+                    hitText.style.textShadow = "0px 0px 10px #ff9900";
                     blop.play();
                     score++;
                     currentScore++;
@@ -610,8 +610,8 @@ window.onload = function() {
                 }
                 else if (type.contains("fish5")) {
                     hitText.innerText = "+1";
-                    hitText.style.color = "#00ffcd";
-                    hitText.style.textShadow = "0px 0px 10px #00ffcd";
+                    hitText.style.color = "#cc33cc"; // purple
+                    hitText.style.textShadow = "0px 0px 10px #cc33cc";
                     blop.play();
                     score++;
                     currentScore++;
@@ -619,8 +619,8 @@ window.onload = function() {
                 }
                 else if (type.contains("fish6")) {
                     hitText.innerText = "+1";
-                    hitText.style.color = "#00ffcd";
-                    hitText.style.textShadow = "0px 0px 10px #00ffcd";
+                    hitText.style.color = "#33cccc"; // teal
+                    hitText.style.textShadow = "0px 0px 10px #33cccc";
                     blop.play();
                     score++;
                     currentScore++;
@@ -628,8 +628,8 @@ window.onload = function() {
                 }
                 else if (type.contains("fish7")) {
                     hitText.innerText = "+1";
-                    hitText.style.color = "#00ffcd";
-                    hitText.style.textShadow = "0px 0px 10px #00ffcd";
+                    hitText.style.color = "#ff33cc"; // magenta
+                    hitText.style.textShadow = "0px 0px 10px #ff33cc";
                     blop.play();
                     score++;
                     currentScore++;
