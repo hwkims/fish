@@ -105,12 +105,12 @@ window.onload = function() {
         //day = 4;
         //initialise sounds
         blop = new sound('sfx/fish.mp3');
-        rareBlop = new sound('sfx/rare-fish.mp3');
-        trashSound = new sound('sfx/trash.mp3');
-        bzzt = new sound('sfx/bzzt.mp3');
-        bite = new sound('sfx/bite.mp3');
-        bgm = new sound('sfx/Bug_Catching.mp3');
-        bgm.play();
+        // rareBlop = new sound('sfx/rare-fish.mp3');
+        // trashSound = new sound('sfx/trash.mp3');
+        // bzzt = new sound('sfx/bzzt.mp3');
+        // bite = new sound('sfx/bite.mp3');
+        // bgm = new sound('sfx/Bug_Catching.mp3');
+        // bgm.play();
         if (day === 0){
             fishTracker = [0,0,0,0,0];
             score = 0;
